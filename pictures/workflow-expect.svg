@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500px" height="400px" viewBox="0 0 500 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Rectangle-1-+-Development" sketch:type="MSLayerGroup" transform="translate(189.000000, 55.000000)">
+            <rect id="Rectangle-1" stroke="#979797" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="149" height="51"></rect>
+            <g id="Development" transform="translate(16.000000, 12.000000)" font-size="20" font-family="Helvetica" fill="#000000" sketch:type="MSTextLayer" font-weight="normal">
+                <text>
+                    <tspan x="0" y="19">Development</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Rectangle-2-+-Testing" sketch:type="MSLayerGroup" transform="translate(304.000000, 231.000000)">
+            <rect id="Rectangle-2" stroke="#979797" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="149" height="51"></rect>
+            <g id="Testing" transform="translate(43.000000, 12.000000)" font-size="20" font-family="Helvetica" fill="#000000" sketch:type="MSTextLayer" font-weight="normal">
+                <text>
+                    <tspan x="0" y="19">Testing</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Rectangle-3-+-Deploy" sketch:type="MSLayerGroup" transform="translate(54.000000, 231.000000)">
+            <rect id="Rectangle-3" stroke="#979797" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="149" height="51"></rect>
+            <g id="Deploy" transform="translate(43.000000, 12.000000)" font-size="20" font-family="Helvetica" fill="#000000" sketch:type="MSTextLayer" font-weight="normal">
+                <text>
+                    <tspan x="0" y="19">Deploy</tspan>
+                </text>
+            </g>
+        </g>
+        <path d="M130.94568,231.337692 C130.94568,231.337692 121.16196,191.951453 138.989495,152.05173 C156.81703,112.152007 188.65191,91.7776864 188.65191,91.7776864" id="Line" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup"></path>
+        <path d="M187.850287,92.3142004 C184.151342,93.6879869 181.006951,94.985036 177.354793,96.6216822 C178.708735,98.2269364 179.869257,99.6028686 181.223199,101.208123 C183.435984,98.0362327 185.413706,95.3662114 187.850287,92.3142004 L187.850287,92.3142004 L187.850287,92.3142004 Z" id="Line-decoration-1" stroke="#979797" stroke-width="2" fill="#979797" sketch:type="MSShapeGroup"></path>
+        <path d="M341.254883,229.34567 C341.254883,229.34567 331.471162,189.959431 349.298697,150.059708 C367.126232,110.159985 397.240628,90.1342132 397.240628,90.1342132" id="Line-2" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(367.908339, 159.739942) rotate(135.000000) translate(-367.908339, -159.739942) "></path>
+        <path d="M401.023009,218.503629 C398.92302,218.510405 397.12303,218.516213 395.02304,218.52299 C396.031802,222.240915 396.803708,225.467358 397.562754,229.296825 C398.900567,225.582167 399.930491,222.342017 401.023009,218.503629 Z" id="Line-2-decoration-1" stroke="#979797" stroke-width="2" fill="#979797" sketch:type="MSShapeGroup" transform="translate(398.023025, 223.900227) rotate(9.000000) translate(-398.023025, -223.900227) "></path>
+        <path d="M262.867804,409.372293 C262.867804,409.372293 214.053822,363.311934 229.32129,291.32646 C244.588758,219.340986 307.029785,192.174435 307.029785,192.174435" id="Line-3" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(266.696815, 300.773364) rotate(258.000000) translate(-266.696815, -300.773364) "></path>
+        <path d="M162.593348,284.414751 C158.723538,285.142063 155.41421,285.9047 151.536768,286.933756 C152.614381,288.736185 153.538048,290.281125 154.615661,292.083554 C157.314687,289.310311 159.692157,287.005334 162.593348,284.414751 L162.593348,284.414751 L162.593348,284.414751 Z" id="Line-3-decoration-1" stroke="#979797" stroke-width="2" fill="#979797" sketch:type="MSShapeGroup" transform="translate(157.065058, 288.249153) rotate(-103.000000) translate(-157.065058, -288.249153) "></path>
+    </g>
+</svg>
